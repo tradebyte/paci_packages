@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version={{VERSION}}
+Type=Application
+Name=PhpStorm
+GenericName=Lightweight and Smart PHP IDE
+Comment=PHPStorm
+Exec="{{PKG_DIR}}/bin/phpstorm.sh" %f
+Terminal=false
+MimeType=text/plain;
+Icon={{PKG_DIR}}/bin/webide.png
+Categories=Development;IDE;
+StartupNotify=true
+StartupWMClass=jetbrains-phpstorm
+Comment[de_DE]=PHPStorm

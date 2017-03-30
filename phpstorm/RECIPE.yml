@@ -1,0 +1,9 @@
+# Maintainer: niklas.heer@tradebyte.com
+name: phpstorm
+version: '2017.1'
+summary: Lightweight and Smart PHP IDE  # Single Line only
+# sources: ... (if needed)
+# sha512sum: ... (to verify the download)
+deps:
+  ubuntu:
+    - openjdk-8-jdk
