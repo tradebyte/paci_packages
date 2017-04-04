@@ -1,0 +1,4 @@
+# Maintainer: niklas.heer@tradebyte.com
+name: _test
+version: '1'
+summary: This is a package only for testing.
