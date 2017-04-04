@@ -17,7 +17,7 @@ main () {
 
     # Install extracted file
     rsync -rtl "${pkg_src}/hugo/" "${pkg_dir}" --exclude=README.md
-    chmod 755 "${pkg_dir}/hugo/hugo_${pkg_ver}_linux_amd64"
+    chmod 755 "${pkg_dir}/hugo_${pkg_ver}_linux_amd64"
 }
 
 main
