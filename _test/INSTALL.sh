@@ -10,7 +10,7 @@ main () {
 
     # Extract file
     mkdir -p "${pkg_src}/hugo"
-    tar xzf "${pkg_src}/hugo_${pkg_ver}_Linux-64bit.tar.gz" -C "${pkg_src}/hugo"
+    tar xzf "${pkg_src}/hugo_${pkg_ver}_Linux-64bit.tar.gz" -C "${pkg_src}/hugo" --strip-components=1
 
     # Install file
     install -D -m 644 "${pkg_src}/PhpStorm_400x400_Twitter_logo_white.png" "${pkg_dir}/test.png"
