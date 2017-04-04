@@ -9,6 +9,7 @@ main () {
     echo "pwd: ${PWD}"
 
     # Extract file
+    mkdir -p "${pkg_src}/hugo"
     tar xzf "${pkg_src}/hugo_${pkg_ver}_Linux-64bit.tar.gz" -C "${pkg_src}/hugo"
 
     # Install file
