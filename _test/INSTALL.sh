@@ -1,8 +1,7 @@
 main () {
     # Test global variables
-    echo $pkgdir
-    echo $pkgversion
-
+    echo $pkg_dir
+    echo $pkg_version
 }
 
 main
