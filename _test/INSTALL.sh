@@ -9,10 +9,14 @@ main () {
     echo "pwd: ${PWD}"
 
     # Extract file
-    tar xzf "${pkg_src}/hugo_0.19_Linux-64bit.tar.gz"
+    tar xzf "${pkg_src}/hugo_${pkg_ver}_Linux-64bit.tar.gz" -C "${pkg_src}/hugo"
 
     # Install file
     install -D -m 644 "${pkg_src}/PhpStorm_400x400_Twitter_logo_white.png" "${pkg_dir}/test.png"
+
+    # Install extracted file
+    rsync -rtl "${pkg_src}/hugo/" "${pkg_dir}" --exclude=README.md
+    chmod 755 "${pkg_dir}/hugo/hugo_${pkg_ver}_linux_amd64"
 }
 
 main
