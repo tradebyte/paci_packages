@@ -9,8 +9,7 @@ main () {
     echo "pwd: ${PWD}"
 
     # Extract file
-    # hugo_0.19_Linux-64bit.tar.gz
-    # tar xzf
+    tar xzf hugo_0.19_Linux-64bit.tar.gz
 
     # Install file
     install -D -m 644 "${pkg_src}/PhpStorm_400x400_Twitter_logo_white.png" "${pkg_dir}/test.png"
