@@ -1,6 +1,10 @@
 {
     "get": [
         {
+            "source": "https://github.com/spf13/hugo/releases/download/v{{VERSION}}/hugo_{{VERSION}}_Linux-64bit.tar.gz",
+            "sha512sum": "22fb1a3805d13b66f335b9ca0158fd5ec94b2411b147d867161d261a3ff2de9fa9985caec50ec60dfc703112db65cea061009555476eb17886267ce936999950"
+        },
+        {
             "source": "https://d3nmt5vlzunoa1.cloudfront.net/phpstorm/files/2015/12/PhpStorm_400x400_Twitter_logo_white.png",
             "sha512sum": "2c6b469befaf6d9316ac38e97240d5031a418a327b8a6593cb17bae6ef0932f310fec6656bb4574740699155d332fb81261bc55de6090e0cb34af79451bfce20"
         }
