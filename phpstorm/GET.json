@@ -1,7 +1,7 @@
 {
     "get": [
         {
-            "source": "https://download.jetbrains.com/webide/PhpStorm-{{VERSION}}.tar.gz",
+            "source": "https://download.jetbrains.com/webide/PhpStorm-{{ pkg_ver }}.tar.gz",
             "sha512sum": "38d9b49ab60c5e315c4891ec4f0c261028ba7e5012effc174a8e044ed4a6d4052fbde6913815c7dd97b4fcd08852a55b4819bda77a4a8ff476141216a3ef57ee"
         },
         {
