@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version={{ pkg_ver }}
+Type=Application
+Name={{ pkg_name }}
+Exec="{{ pkg_dir }}/hugo"
+Terminal=false
+MimeType=text/plain;
+Icon={{ pkg_dir }}/test.png
+Categories=Development;
+StartupNotify=true
