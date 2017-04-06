@@ -5,8 +5,7 @@ main () {
     echo "pkg_ver: ${pkg_ver}"
     echo "pkg_desc: ${pkg_desc}"
     echo "pkg_name: ${pkg_name}"
-
-    echo "pwd: ${PWD}"
+    echo "working dir: ${PWD}"
 
     # Extract file
     mkdir -p "${pkg_src}/hugo"
