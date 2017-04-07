@@ -2,3 +2,5 @@
 name: _test
 version: '0.19'
 summary: This is a package only for testing.
+sources: SOURCES.tar.gz
+sha512sum: 68385d007130087d8af27c12e4f39bf2ac48b5b6eb45fec4f6c612540eea99d7c244645e5bdba5c6d07c69e508e3dee9c55c457af526c3c55e75aaa03e5f7fed
