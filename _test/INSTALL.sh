@@ -18,6 +18,9 @@ main () {
     # rsync -rtl "${pkg_src}/hugo/" "${pkg_dir}" --exclude=README.md --exclude=LICENSE.md
     # chmod 755 "${pkg_dir}/hugo_${pkg_ver}_linux_amd64"
     install -D -m 755 "${pkg_src}/hugo/hugo_${pkg_ver}_linux_amd64" "${pkg_dir}/hugo"
+
+    # Test if SOURCES.tar.gz was extracted and files are accessable
+    source "${pkg_src}/SOURCES/source.sh"
 }
 
 main
