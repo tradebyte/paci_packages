@@ -37,10 +37,6 @@ ${pkg_name}    # the name of the package as specified in `RECIPE.yml`
 ${PWD}         # the working directory is the same as ${pkg_src}
 ```
 
-## Todo
-- [ ] make a gzipped index file (JSON)
-- [ ] add bash script to generate index file
-
 ## Contributing
 
 See the [CONTRIBUTING] document.<br/>
