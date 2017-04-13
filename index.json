@@ -1,1 +1,1 @@
-{"_default": {"1": {"ver": "0.19", "desc": "This is a package only for testing.", "name": "_test"}, "2": {"ver": "2017.1", "desc": "Lightweight and Smart PHP IDE", "name": "phpstorm"}}}
+{"_default": {"1": {"ver": "0.19", "name": "_test", "desc": "This is a package only for testing."}, "2": {"ver": "2017.1.2", "name": "phpstorm", "desc": "Lightweight and Smart PHP IDE"}, "3": {"ver": "2.3.3", "name": "gitkraken", "desc": "The most popular Git GUI for Windows, Mac AND Linux"}}}
