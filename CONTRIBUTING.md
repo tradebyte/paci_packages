@@ -18,6 +18,8 @@ Make sure you add a `RECIPE.yml` to your package with a description.
 
 Don't forget to include all optional files needed for the package.
 
+Execute `❯ paci generate repo-index <path to your paci_packages repo>` to generate the index file. (this maybe subject to change)
+
 Push to your fork. Write a [good commit message][commit]. Submit a pull request.
 
   [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
