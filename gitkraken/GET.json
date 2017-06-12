@@ -1,8 +1,8 @@
 {
     "get": [
         {
-            "source": "https://release.gitkraken.com/linux/gitkraken-amd64.tar.gz",
-            "sha512sum": "6ee249ab3fead2b38e8843faffa00627f6f1df908b4aebe3a445be29daab9e2327348ccb242568db9d31b89f2c9a2da4e46288e9526de5b1607f889a2efb7185"
+            "source": "https://release.gitkraken.com/linux/v{{ pkg_ver }}.tar.gz",
+            "sha512sum": "34985463cfd5bf7dd763c72ac9b3bba330acee0577adc85ac998d256d70edb3eecf5f7c833e3f8ba229a7748a759861eaac2dad0a8d3d05c1653c0451a6e6aa8"
         }
     ]
 }
