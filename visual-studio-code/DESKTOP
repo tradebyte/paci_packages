@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec={{ pkg_dir }}/bin/code %f
+Icon={{ pkg_dir }}/resources/app/resources/linux/code.png
+Terminal=false
+Type=Application
+StartupWMClass=code
+Name=Visual Studio Code
+Comment=Editor for building and debugging modern web and cloud applications
+Categories=Development;WebDevelopment;IDE;Utilities;
+StartupNotify=true

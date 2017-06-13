@@ -1,0 +1,4 @@
+# Maintainer: niklas.heer@tradebyte.com
+name: visual-studio-code
+version: '1.13.0'
+summary: An editor for building and debugging modern web and cloud applications.
