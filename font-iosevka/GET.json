@@ -1,0 +1,8 @@
+{
+    "get": [
+        {
+            "source": "https://github.com/be5invis/Iosevka/releases/download/v{{ pkg_ver }}/01-iosevka-{{ pkg_ver }}.zip",
+            "sha512sum": "4bb9d843cf47230dd1dc2997a71b7313a8ce67202d06deaff26c0fc06ff7e1b099e9c3b3cba714bff3f2cda83674b9023b725701ebfbb8dc69b63fb374a52873"
+        }
+    ]
+}
