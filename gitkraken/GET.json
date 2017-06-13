@@ -3,6 +3,10 @@
         {
             "source": "https://release.gitkraken.com/linux/v{{ pkg_ver }}.tar.gz",
             "sha512sum": "34985463cfd5bf7dd763c72ac9b3bba330acee0577adc85ac998d256d70edb3eecf5f7c833e3f8ba229a7748a759861eaac2dad0a8d3d05c1653c0451a6e6aa8"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/tradebyte/paci_packages/master/gitkraken/media/gitkraken.png",
+            "sha512sum": "5be7e2fcc2ae54139007cf6ff690eccc6a6c13132d3942f2446a24a7de2f1bfa9bfa43ec575677be15c5563e9d4b393fee86894b03730884b2e6d863d5dafc92"
         }
     ]
 }
