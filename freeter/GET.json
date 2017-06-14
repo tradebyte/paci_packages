@@ -1,0 +1,8 @@
+{
+    "get": [
+        {
+            "source": "https://freeter.io/download/Freeter.AppImage",
+            "sha512sum": "bd7278f65f162e4711bdf0372c54e22cefb21806e76a17d2d77affff4e3bb553362fa8238f0e1fdcf291a384412cd028c07b87a89e30be224a0aac8fa0f6347f"
+        }
+    ]
+}
