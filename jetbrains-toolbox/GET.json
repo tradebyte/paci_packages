@@ -2,7 +2,7 @@
     "get": [
         {
             "source": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-{{ pkg_ver }}.tar.gz",
-            "sha512sum": "be41558d24b22a1605bb2cfeb5469d02ce7e9931e331c120fe212cb885af9425354bce05c299436f1fcd083ed5ea5a8ce4b019c8ccf40db745c13ee4ced64006"
+            "sha512sum": "5472238387d91153ef9dbba97553c8ac992594ad70801cd304de067687077f76ea3bb8f2753dcb26a78d33ac6c0588c0dec043fe8d01a2eaeb698e3f538f04f6"
         }
     ]
 }
