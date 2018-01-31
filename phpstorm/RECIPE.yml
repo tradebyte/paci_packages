@@ -1,6 +1,6 @@
 # Maintainer: niklas.heer@tradebyte.com
 name: phpstorm
-version: '2017.1.2'
+version: '2017.3.4'
 summary: Lightweight and Smart PHP IDE
 deps:
   ubuntu:
