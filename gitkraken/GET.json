@@ -2,7 +2,7 @@
     "get": [
         {
             "source": "https://release.gitkraken.com/linux/v{{ pkg_ver }}.tar.gz",
-            "sha512sum": "34985463cfd5bf7dd763c72ac9b3bba330acee0577adc85ac998d256d70edb3eecf5f7c833e3f8ba229a7748a759861eaac2dad0a8d3d05c1653c0451a6e6aa8"
+            "sha512sum": "10cdefd4b1b8c6236de78c20885a311811f0504fad523dd500f5a9d17091b4f05ce09064d62b94c185ed25a5461c00c1016d1ae3b196059027255d0d8ef24070"
         },
         {
             "source": "https://raw.githubusercontent.com/tradebyte/paci_packages/master/gitkraken/media/gitkraken.png",
