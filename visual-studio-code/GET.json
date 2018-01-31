@@ -2,7 +2,7 @@
     "get": [
         {
             "source": "https://vscode-update.azurewebsites.net/{{ pkg_ver }}/linux-x64/stable",
-            "sha512sum": "f2df886fae02692503206f8d68b70544a617c98afed1e39756c8e3c3623b2d9fb739ed58721347074b8dc0911541329ef3e9dccb3d7bc91a651b97f28cfdc0b2"
+            "sha512sum": "d7d866dd4b6a19da2d863a9363caf114a01a3a5ae003a9a8040afb4048db27448b78762670a561deffa47b6165ea92a369e0e4dd3026c4d832fc802abcd8aa62"
         }
     ]
 }
