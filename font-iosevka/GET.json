@@ -2,7 +2,7 @@
     "get": [
         {
             "source": "https://github.com/be5invis/Iosevka/releases/download/v{{ pkg_ver }}/iosevka-ss08-{{ pkg_ver }}.zip",
-            "sha512sum": "7e4e8fb98f9a6e59989f532bb03167262f89c2a574480c68dc7b7a1d5af8a5e15420429ff8256bada83a71b0884d18f583f635d3c585bd95f651881090aeb17e"
+            "sha512sum": "54068b6e464002a7b5892e0ece08c4e825e4f42dca0bfc50322e6884d3439cf9d3965ab039ae84d366847b081038d3a4af5f59373967bde91e4d367d162b7e67"
         }
     ]
 }
