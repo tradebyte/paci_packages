@@ -1,0 +1,8 @@
+{
+    "get": [
+        {
+            "source": "https://github.com/ogham/exa/releases/download/v{{ pkg_ver }}/exa-linux-x86_64-{{ pkg_ver }}.zip",
+            "sha512sum": "2dc67c308bbeaaa54d6a9b7b2ff4c25765ccacc90b52a56ee6e5d28756c083efbee2230d28fdf31a29d3508cdfdeff61c7999c15f16782f27c74f111cc3b3108"
+        }
+    ]
+}

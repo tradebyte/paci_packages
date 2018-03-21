@@ -1,0 +1,4 @@
+# Maintainer: niklas.heer@tradebyte.com
+name: sudo-exa
+version: '0.8.0'
+summary: Replacement for 'ls' written in Rust
