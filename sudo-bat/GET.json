@@ -1,0 +1,8 @@
+{
+    "get": [
+        {
+            "source": "https://github.com/sharkdp/bat/releases/download/v{{ pkg_ver }}/bat-musl_{{ pkg_ver }}_amd64.deb",
+            "sha512sum": "89deec8214f20bb8f9579ec5cf50bf6fc32764796bbb8a1eec7d7112407f0053fb13450ba0a971af1a006f9c23f9784cfdb9e9409cd36a9cbdd2c194ffa659ca"
+        }
+    ]
+}

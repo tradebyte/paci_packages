@@ -1,0 +1,4 @@
+# Maintainer: niklas.heer@tradebyte.com
+name: sudo-bat
+version: '0.3.0'
+summary: A `cat` clone with syntax highlighting.
