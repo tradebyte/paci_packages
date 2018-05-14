@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 main () {
     mkdir -p "${pkg_src}/toolbox"
     tar xzf "${pkg_src}/${pkg_name}-${pkg_ver}.tar.gz" -C "${pkg_src}/toolbox" --strip-components=1

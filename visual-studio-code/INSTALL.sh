@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 main () {
     mkdir -p "${pkg_src}/vscode"
     tar xzf "${pkg_src}/stable" -C "${pkg_src}/vscode" --strip-components=1
